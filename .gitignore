@@ -1,0 +1,23 @@
+# Node modules
+frontend/node_modules/
+electron/node_modules/
+node_modules/
+
+# Build output
+dist/
+frontend/dist/
+electron/dist/
+
+# Executables
+*.exe
+*.msi
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Environment
+*.env
+
+# JAR backend (optional)
+#backend-jar/*.jar
